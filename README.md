@@ -16,5 +16,5 @@ python3 country-code-finder.py
 
 # Copyright & License
 
-© 2022 Suresh. P | 
+© 2022 Suresh Pandiyan | 
 Code released under MIT License
